@@ -1,6 +1,9 @@
 This is introduction to MachineLearning
+
 L'apprendimento automatico (in inglese machine learning, abbreviato in ML) è una branca dell'intelligenza artificiale 
 che raccoglie metodi sviluppati negli ultimi decenni del XX secolo in varie comunità scientifiche, 
 sotto diversi nomi quali statistica computazionale, riconoscimento di pattern, reti neurali artificiali, 
 filtraggio adattivo, teoria dei sistemi dinamici, elaborazione delle immagini, data mining, algoritmi adattivi, ecc., 
 che utilizza metodi statistici per migliorare le prestazioni di un algoritmo nell'identificare pattern nei dati.
+Nell'ambito dell'informatica, l'apprendimento automatico è una variante alla programmazione tradizionale 
+nella quale in una macchina si predispone l'abilità di apprendere qualcosa dai dati in maniera autonoma, senza istruzioni esplicite.
